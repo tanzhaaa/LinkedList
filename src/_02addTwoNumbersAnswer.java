@@ -1,5 +1,5 @@
 //other`s answer, ht solve this problem at one loop; learn it!
-class addTwoNumbersAnswer {
+class _02addTwoNumbersAnswer {
     public ListNode addTwoNumbersOthers (ListNode l1, ListNode l2) {
             ListNode root = new ListNode(0);
             ListNode cursor = root;
